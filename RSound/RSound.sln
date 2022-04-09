@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSound", "RSound\RSound.csproj", "{382C5536-0047-4D43-9499-B5609F23DBD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{382C5536-0047-4D43-9499-B5609F23DBD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{382C5536-0047-4D43-9499-B5609F23DBD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{382C5536-0047-4D43-9499-B5609F23DBD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{382C5536-0047-4D43-9499-B5609F23DBD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8897846B-E546-4E79-B7A4-CA07FBF7B6BA}
+	EndGlobalSection
+EndGlobal
