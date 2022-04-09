@@ -1,2 +1,2 @@
-# r-sound
+# RSound
 Play sound in random interval
