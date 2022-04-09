@@ -27,8 +27,6 @@ while (DateTime.Now < end)
     Thread.Sleep(1000 * sleep);
 }
 
-PlaySound(soundFile);
-
 static void PlaySound(string soundFile)
 {
     var player = new SoundPlayer(soundFile);
